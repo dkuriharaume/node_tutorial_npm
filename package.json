@@ -15,5 +15,8 @@
     "url": "https://github.com/dkuriharaume/node_tutorial_npm/issues"
   },
   "homepage": "https://github.com/dkuriharaume/node_tutorial_npm#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@dkurihara/node_tutorial_npm_depended": "^1.0.0"
+  }
 }
